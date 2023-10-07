@@ -16,7 +16,7 @@
  
 <br>
 <h2>Certificado de um treinamento.</h2>
-<img href="haarthurr/certificado.png" alt="certificado">
+<img src="certificado.png" alt="certificado">
  
 <div> 
   <h3>Contatos/Contacts</h3>
