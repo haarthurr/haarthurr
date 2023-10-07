@@ -15,7 +15,8 @@
 </div>
  
 <br>
-
+<h2>Certificado de um treinamento.</h2>
+<img href="https://img1.niftyimages.com/tnlh/nboi/s1a5?name=Arthur%20Monteiro%20Silva" alt="certificado">
  
 <div> 
   <h3>Contatos/Contacts</h3>
